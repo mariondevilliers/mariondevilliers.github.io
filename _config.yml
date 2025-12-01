@@ -23,7 +23,7 @@ repository               : "mariondevilliers/mariondevilliers.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   name             : "Marion Devilliers"
-  avatar           : "photo_Marion_Devilliers.jpg"
+  avatar           : "images/photo_Marion_Devilliers.jpg"
   bio              : "Physical oceanographer specializing in AMOC dynamics, climate variability, and decadal prediction."
   location         : "Copenhagen, Denmark"
   employer         : "Danish Meteorological Institute (DMI)"
