@@ -7,4 +7,5 @@ venue: "Journal of Advances in Modeling Earth Systems"
 authors: "Boucher, O.; Servonnat, J.; Albright, A. L.; Aumont, O.; Balkanski, Y.; Bastrikov, V.; Bekki, S.; Bonnet, R.; Bony, S.; Bopp, L.; Devilliers, M.; et al."
 year: 2020
 type: "article"
+category: manuscripts
 ---
