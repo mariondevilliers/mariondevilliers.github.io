@@ -7,4 +7,5 @@ venue: "Geophysical Research Letters"
 authors: "Drews, A.; Schmith, T.; Tian, T.; Wang, Y.; Devilliers, M.; Keenlyside, N. S.; Yang, S.; Olsen, S. M."
 year: 2024
 type: "article"
+category: manuscripts
 ---
