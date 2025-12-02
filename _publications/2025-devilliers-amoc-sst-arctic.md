@@ -7,4 +7,5 @@ venue: "Frontiers in Climate"
 authors: "Devilliers, M.; Olsen, S. M.; Langehaug, H. R.; Guo, C.; Mahmood, R.; Tian, T.; Yang, S."
 year: 2025
 type: "article"
+category: manuscripts
 ---
