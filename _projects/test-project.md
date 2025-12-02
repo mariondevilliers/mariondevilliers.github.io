@@ -20,7 +20,7 @@ Large European consortium aiming to develop hybrid frameworks combining Earth-sy
 
 ---
 
-## Novo Nordisk Foundation — AIMOC ((Hybrid AI–Climate Modelling for AMOC)
+## Novo Nordisk Foundation — AIMOC (Hybrid AI–Climate Modelling for AMOC)
 
 **Year:** 2025  
 **Status:** Stage 1 accepted; invited to Stage 2; not selected in final round.  
@@ -37,10 +37,10 @@ Hybrid physics–ML approach to identify AMOC variability drivers and early-warn
 
 High-resolution EC-Earth4 simulations using ATOS HPC:  
 1. standard configuration,  
-2. refined subpolar gyre,  
+2. refined subpolar gyre,  using AGRIF tool,
 3. refined + Greenland freshwater forcing.
 
-Objective: quantify how mesoscale resolution affects AMOC prediction skill.
+Objective: quantify how mesoscale resolution affects AMOC prediction skill with and without the impact of freshwater fluxes from GrIS melting.
 
 ---
 
@@ -69,7 +69,7 @@ Tasks include:
 
 ## ObsSea4Clim — Observations & Sea State for Climate Applications
 
-**Years:** 2023–2025  
+**Years:** 2023–2028
 **Role:** Task leader — ocean circulation and climate diagnostics
 
 Integration of sea-state observations with climate models to improve upper-ocean fluxes and Arctic boundary conditions.
@@ -78,7 +78,7 @@ Integration of sea-state observations with climate models to improve upper-ocean
 
 ## TIpESM — Tipping Points in Earth System Models
 
-**Years:** 2024–2027  
+**Years:** 2024–2028 
 **Role:** Contributor — AMOC tipping detection
 
 Evaluation of tipping dynamics in CMIP6, with an emphasis on freshwater forcing, subpolar gyre dynamics, and early-warning indicators.
