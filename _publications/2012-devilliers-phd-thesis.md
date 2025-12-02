@@ -7,4 +7,5 @@ venue: "PhD thesis, Université Paris-Est"
 authors: "Devilliers, M."
 year: 2012
 type: "phdthesis"
+category: manuscripts
 ---
