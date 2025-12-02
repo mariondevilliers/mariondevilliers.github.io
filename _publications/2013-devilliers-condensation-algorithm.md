@@ -7,4 +7,5 @@ venue: "Journal of Aerosol Science"
 authors: "Devilliers, M.; Debry, E.; Sartelet, K.; Seigneur, C."
 year: 2013
 type: "article"
+category: manuscripts
 ---
