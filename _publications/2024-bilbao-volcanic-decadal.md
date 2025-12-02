@@ -7,4 +7,5 @@ venue: "Earth System Dynamics"
 authors: "Bilbao, R.; Ortega, P.; Swingedouw, D.; Hermanson, L.; Athanasiadis, P.; Eade, R.; Devilliers, M.; Doblas-Reyes, F.; Dunstone, N.; Ho, A.-C.; et al."
 year: 2024
 type: "article"
+category: manuscripts
 ---
