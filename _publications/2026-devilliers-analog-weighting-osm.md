@@ -7,4 +7,5 @@ venue: "2026 Ocean Sciences Meeting (AGU)"
 authors: "Devilliers, M.; Tandeo, P.; Beauchamp, M."
 year: 2026
 type: "conference"
+category: conferences
 ---
