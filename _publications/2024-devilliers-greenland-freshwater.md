@@ -7,4 +7,5 @@ venue: "Climate Dynamics"
 authors: "Devilliers, M.; Yang, S.; Drews, A.; Schmith, T.; Olsen, S. M."
 year: 2024
 type: "article"
+category: manuscripts
 ---
