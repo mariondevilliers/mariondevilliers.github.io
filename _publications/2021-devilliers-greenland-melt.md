@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/devilliers-2021-greenland-melt/
 date: 2021-01-01
 venue: "Climate Dynamics"
-authors: "Devilliers, M.; Swingedouw, D.; Mignot, J.; Deshayes, J.; Garric, G.; Ayache, M."
+author: "Devilliers, M.; Swingedouw, D.; Mignot, J.; Deshayes, J.; Garric, G.; Ayache, M."
 year: 2021
 type: "article"
 category: manuscripts
