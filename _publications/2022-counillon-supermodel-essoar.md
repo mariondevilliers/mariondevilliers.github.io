@@ -7,4 +7,5 @@ venue: "ESS Open Archive (preprint)"
 authors: "Counillon, F.; Keenlyside, N. S.; Wang, S.; Devilliers, M.; Gupta, A. K.; Koseki, S.; Shen, M.-L."
 year: 2022
 type: "preprint"
+category: manuscripts
 ---
