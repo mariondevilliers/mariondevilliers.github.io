@@ -7,4 +7,5 @@ venue: "Bulletin of the American Meteorological Society"
 authors: "Schevenhoven, F.; Keenlyside, N.; Counillon, F.; Carrassi, A.; Chapman, W. E.; Devilliers, M.; Gupta, A.; Koseki, S.; Selten, F.; Shen, M.-L.; et al."
 year: 2023
 type: "article"
+category: manuscripts
 ---
