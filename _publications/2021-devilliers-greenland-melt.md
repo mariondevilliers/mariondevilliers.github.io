@@ -7,4 +7,5 @@ venue: "Climate Dynamics"
 authors: "Devilliers, M.; Swingedouw, D.; Mignot, J.; Deshayes, J.; Garric, G.; Ayache, M."
 year: 2021
 type: "article"
+category: manuscripts
 ---
