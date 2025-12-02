@@ -12,13 +12,14 @@ layout: compress
   </head>
 
   <body>
+
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
+    
     <!-- Banner -->
     <div class="site-banner">
       <img src="{{ '/assets/imgages/banner-ocean.png' | relative_url }}" alt="Ocean banner">
     </div>
-
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
 
     {{ content }}
 
