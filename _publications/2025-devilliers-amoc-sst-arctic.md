@@ -8,4 +8,5 @@ authors: "Devilliers, M.; Olsen, S. M.; Langehaug, H. R.; Guo, C.; Mahmood, R.; 
 year: 2025
 type: "article"
 category: manuscripts
+redirect_to: "https://www.frontiersin.org/journals/climate/articles/10.3389/fclim.2025.1550772/full"
 ---
