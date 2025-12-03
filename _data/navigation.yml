@@ -16,7 +16,10 @@ main:
     
   - title: "Students"
     url: /students/
-    
+ 
+  - title: "Conferences"
+    url: /conferences/
+  
   - title: "CV"
     url: /cv/
     
