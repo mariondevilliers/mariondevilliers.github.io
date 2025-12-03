@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Conferences"
+title: ""
 permalink: /conferences/
 author_profile: true
 toc: false
@@ -35,7 +35,7 @@ Below is a structured list of conferences, workshops, and scientific meetings in
 ## 2023
 - **Nansen Legacy Symposium**, Tromsø  
 - **ASOF Meeting**, Reykjavik
-- **CMIP6 models in the Arctic Meeting”, Bergen — *Organizer*
+- **CMIP6 models in the Arctic Meeting**, Bergen — *Organizer*
 
 ---
 
