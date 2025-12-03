@@ -209,7 +209,7 @@ kramdown:
 collections:
   publications:
     output: true
-    permalink: /publications/:path/
+    permalink: /publications/:title/
   projects:
     output: true
     permalink: /projects/:path/
