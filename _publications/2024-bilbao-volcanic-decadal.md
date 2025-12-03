@@ -8,4 +8,5 @@ authors: "Bilbao, R.; Ortega, P.; Swingedouw, D.; Hermanson, L.; Athanasiadis, P
 year: 2024
 type: "article"
 category: manuscripts
+redirect_to: "https://esd.copernicus.org/articles/15/501/2024/
 ---
