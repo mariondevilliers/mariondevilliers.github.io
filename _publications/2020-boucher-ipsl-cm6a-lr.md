@@ -8,4 +8,5 @@ authors: "Boucher, O.; Servonnat, J.; Albright, A. L.; Aumont, O.; Balkanski, Y.
 year: 2020
 type: "article"
 category: manuscripts
+doi: "https://doi.org/10.1029/2019MS002010"
 ---
