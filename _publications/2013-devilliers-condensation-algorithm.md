@@ -8,5 +8,5 @@ authors: "Devilliers, M.; Debry, E.; Sartelet, K.; Seigneur, C."
 year: 2013
 type: "article"
 category: manuscripts
-link: "https://www.sciencedirect.com/science/article/pii/S0021850212001504"
+redirect_to: "https://www.sciencedirect.com/science/article/pii/S0021850212001504"
 ---
