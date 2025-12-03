@@ -5,7 +5,7 @@ permalink: /students/
 author_profile: true
 ---
 
-## 🎓 PhD Supervision
+## PhD Supervision
 
 ### **PhD Candidate – Carbon Fluxes Variability in EC-Earth3**
 **Institution:** Danish Meteorological Institute (DMI) / University of Southern Denmark
@@ -16,7 +16,7 @@ Understanding the mechanisms driving variability in carbon fluxes in the Earth S
 
 ---
 
-## 🎓 Master’s Thesis Supervision
+## Master’s Thesis Supervision
 
 ### **Master Student – Compression of CMIP6 Climate Model Outputs for AMOC Tipping Identification**
 **Institution:** Danish Meteorological Institute (DMI) / Aarhus University  
