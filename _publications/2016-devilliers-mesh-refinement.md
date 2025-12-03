@@ -1,9 +1,6 @@
 ---
 title: "A new adaptive mesh refinement to model water flow around fishing nets"
-authors:
-  - "M. Devilliers"
-  - "B. Vincent"
-  - "I. Mnassri"
+authors: "Devilliers, M.; Vincent, B.; Mnassri, I."
 collection: publications
 date: 2016-01-01
 doi: "10.1016/j.oceaneng.2015.12.009"
