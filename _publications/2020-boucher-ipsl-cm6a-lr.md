@@ -9,4 +9,5 @@ year: 2020
 type: "article"
 category: manuscripts
 doi: "https://doi.org/10.1029/2019MS002010"
+redirect_to: "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019MS002010"
 ---
