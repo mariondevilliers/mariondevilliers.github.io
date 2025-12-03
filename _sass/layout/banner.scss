@@ -1,15 +1,16 @@
 .site-banner {
   width: 100%;
-  text-align: center;     /* centre l'image horizontalement */
-  overflow: hidden;
+  text-align: center;
+  overflow: hidden;   /* coupe le trop plein */
   margin: 0;
   padding: 0;
 }
 
 .site-banner img {
-  width: 100%;            /* occupe toute la largeur */
-  height: auto;           /* respecte les proportions */
-  object-fit: none;       /* pas de crop */
-  display: block;         /* évite l'espace sous l'image */
-  margin: 0 auto;         /* sécurité pour centrer */
+  width: 100%;
+  height: auto;
+  max-height: 180px;  /* ← RÉDUIT LA HAUTEUR DE 1/3 (ajuste ici) */
+  object-fit: cover;
+  display: block;
+  margin: 0 auto;
 }
