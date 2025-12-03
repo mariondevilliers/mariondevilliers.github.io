@@ -15,13 +15,15 @@ Below is a structured list of conferences, workshops, and scientific meetings in
 
 ## 2026
 - **CMIP Workshop**, March 2026 — *Session convener*  
-- **TIPMIP General Assembly**, Kyoto (2026)  
-- **Ocean Sciences Meeting (OSM)**, 2026  
+- **TIPMIP General Assembly**, Kyoto  
+- **Ocean Sciences Meeting (OSM)**, Glasgow
 
 ---
 
 ## 2025
-- **The Subpolar Gyre Workshop**, Utrecht (2025)
+- **The Subpolar Gyre Workshop**, Utrecht 
+- **ASOF Meeting**, Barcelona  
+
 
 ---
 
@@ -54,15 +56,15 @@ Below is a structured list of conferences, workshops, and scientific meetings in
 ### **2018**
 - *M. Devilliers, N. Keenlyside, F. Counillon, M.-L. Shen*  
   **“Connecting the ocean components of Earth system models in order to build a supermodel”**,  
-  EGU General Assembly, Vienna (April 2018)
-
+  EGU General Assembly, Vienna
+  
 ### **2011**
 - *M. Devilliers, C. Seigneur, E. Debry, K. Sartelet*  
   **“A New Algorithm to Solve Condensation/Evaporation Growth and Coagulation of Nanoparticles”**,  
-  EAC (European Aerosol Conference), Manchester (September 2011)
+  EAC (European Aerosol Conference), Manchester
 
 - *M. Devilliers, C. Seigneur, E. Debry, K. Sartelet*  
   **“A New Algorithm to Solve Condensation/Evaporation Growth and Coagulation of Nanoparticles”**,  
-  EGU General Assembly, Vienna (April 2011)
+  EGU General Assembly, Vienna
 
 ---
