@@ -10,7 +10,7 @@ author_profile: true
 ### **PhD Candidate – Carbon Fluxes Variability in EC-Earth3**
 **Institution:** Danish Meteorological Institute (DMI) / University of Southern Denmark
 **Status:** Defended on the 16/10/2025
-**Role:** Co-supervisor  
+**Role:** Scientific advisor
 **Topic:**  
 Understanding the mechanisms driving variability in carbon fluxes in the Earth System Model **EC-Earth3**, with an emphasis on ocean–atmosphere interactions, biogeochemical feedbacks, and implications for future carbon cycle projections.
 
