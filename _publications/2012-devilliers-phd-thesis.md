@@ -8,4 +8,5 @@ authors: "Devilliers, M."
 year: 2012
 type: "phdthesis"
 category: manuscripts
+link: https://theses.hal.science/pastel-00795945/
 ---
