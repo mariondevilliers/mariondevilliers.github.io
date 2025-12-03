@@ -18,5 +18,3 @@ keywords:
   - "Fluid-structure interaction"
   - "Net deployment"
 ---
-
-This publication presents a new adaptive mesh refinement strategy for modeling water flow around submerged fishing nets.
