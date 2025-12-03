@@ -34,7 +34,7 @@ Below is a structured list of conferences, workshops, and scientific meetings in
 
 ---
 
-## 🗓️ 2023
+## 2023
 - **Nansen Legacy Symposium**, Tromsø  
 - **ASOF Meeting**, Reykjavik *(co-organizer: meeting “CMIP6 models in the Arctic” at the Nansen Center, Bergen)*
 
