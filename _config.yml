@@ -27,7 +27,7 @@ author:
   bio              : "Climate researcher specializing in North Atlantic, AMOC dynamics and variability."
   location         : "Copenhagen, Denmark"
   employer         : "Danish Meteorological Institute (DMI)"
-  email            : "mailto:marion.devilliers@gmail.com"
+  email            : "marion.devilliers@gmail.com"
   googlescholar    : "https://scholar.google.com/citations?user=aanBx_kAAAAJ"
   orcid            : "https://orcid.org/0000-0002-3929-2747"
   researchgate     : "https://www.researchgate.net/profile/Marion-Devilliers?ev=hdr_xprf"
@@ -67,6 +67,11 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
+  
+links:
+  - label: "Email"
+    icon: "fas fa-envelope"
+    url: "mailto:marion.devilliers@gmail.com"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
