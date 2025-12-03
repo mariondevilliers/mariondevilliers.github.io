@@ -8,4 +8,5 @@ authors: "Schevenhoven, F.; Keenlyside, N.; Counillon, F.; Carrassi, A.; Chapman
 year: 2023
 type: "article"
 category: manuscripts
+redirect_to: "https://journals.ametsoc.org/view/journals/bams/104/9/BAMS-D-22-0070.1.xml"
 ---
