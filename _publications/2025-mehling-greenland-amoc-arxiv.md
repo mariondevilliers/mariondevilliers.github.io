@@ -8,4 +8,5 @@ authors: "Mehling, O.; Bellomo, K.; Fabiano, F.; Devilliers, M.; Petrini, M.; Co
 year: 2025
 type: "preprint"
 category: manuscripts
+redirect_to: "https://arxiv.org/abs/2509.24858"
 ---
