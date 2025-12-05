@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Scientific Reports & Assessments"
+title: ""
 permalink: /assessment-reports/
 author_profile: true
 toc: false
@@ -8,7 +8,7 @@ toc: false
 
 # Scientific Reports & Assessments
 
-This page summarizes my contributions as lead author or contributing expert to major scientific assessment reports.
+This page summarizes my contributions as chapter leader and co-author to major scientific assessment reports.
 
 ---
 
@@ -16,10 +16,10 @@ This page summarizes my contributions as lead author or contributing expert to m
 ### **Lead Author — Chapter 5: The Atlantic Meridional Overturning Circulation (AMOC)**  
 **Upcoming Arctic Monitoring and Assessment Report (2026)**
 
-I am serving as Lead Author for Chapter 5 of the upcoming AMAP assessment report.  
+Leading Chapter 5 of the upcoming AMAP assessment report.  
 This chapter focuses on:
 
-- Observed changes in the AMOC and its subpolar gyre circulation  
+- Observed changes in the AMOC and model projections  
 - Links between Arctic freshwater anomalies, ice melt, and AMOC stability  
 - Future risks of AMOC weakening in a warming climate  
 - Implications for Arctic–Atlantic climate coupling  
@@ -31,20 +31,21 @@ This report is produced under AMAP (Arctic Council), and will synthesize the lat
 ## JPI Climate & JPI Oceans Joint Initiative Report on AMOC  
 ### **Lead Author — Chapter 3: Future AMOC Weakening**
 
-I am also Lead Author of Chapter 3 in the upcoming JPI Climate / JPI Oceans initiative report on the Atlantic Meridional Overturning Circulation.
+Leading Chapter 3 in the upcoming JPI Climate / JPI Oceans initiative report on the Atlantic Meridional Overturning Circulation.
 
 This chapter covers:
 
 - Projections of future AMOC strength using CMIP6 and high-resolution models  
-- Probabilistic estimates of AMOC slowdown under different emission scenarios  
-- Early warning indicators and potential tipping elements  
-- Societal and climate impacts of future AMOC changes  
-
-This report synthesizes European expertise on AMOC science and informs future climate strategy.
+- Assessment of climate model limitations
+- Potential unstability of the AMOC
+- Review of the observationnal constraints methods
+- Storyline of AMOC changes
+  
+This report synthesizes European expertise on AMOC science for near and long term future and informs future climate strategy.
 
 ---
 
-## 📄 Role of These Reports
+## Role of These Reports
 
 Both assessments aim to:
 
@@ -56,4 +57,3 @@ My contributions reflect my ongoing research on AMOC dynamics, freshwater forcin
 
 ---
 
-If you'd like to link specific drafts, figures, or timelines, I can add sections for them.
