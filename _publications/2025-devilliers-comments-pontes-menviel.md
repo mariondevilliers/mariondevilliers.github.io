@@ -8,4 +8,5 @@ reviewed_in: "In review, Nature Geoscience"
 authors: "Devilliers, M. ; Swingedouw, D. ; Martin, T. ; Mankoff, K. ; Schiller-Weiss, I. ; Mignot, J. ; Olsen, S. M. ; Deshayes, J."
 type: "article"
 status: "in-review"
+category: mansucript
 ---
