@@ -6,17 +6,17 @@ author_profile: true
 toc: false
 ---
 
-# Scientific Reports & Assessments
+# Scientific Assessment Reports
 
 This page summarizes my contributions as chapter leader and co-author to major scientific assessment reports.
 
 ---
 
-## Arctic Monitoring and Assessment Programme (AMAP)  
+## Arctic Monitoring and Assessment Programme (AMAP)   
 ### **Lead Author — Chapter 5: The Atlantic Meridional Overturning Circulation (AMOC)**  
-**Upcoming Arctic Monitoring and Assessment Report (2026)**
+**Upcoming 2026 Climate Update Report on Arctic Monitoring and Assessment Programm (2026)**
 
-Leading Chapter 5 of the upcoming AMAP assessment report.  
+Leading Chapter 5 of the upcoming AMAP report.  
 This chapter focuses on:
 
 - Observed changes in the AMOC and model projections  
@@ -24,7 +24,7 @@ This chapter focuses on:
 - Future risks of AMOC weakening in a warming climate  
 - Implications for Arctic–Atlantic climate coupling  
 
-This report is produced under AMAP (Arctic Council), and will synthesize the latest scientific knowledge on ocean–cryosphere interactions.
+This third climate update report is produced under AMAP (Arctic Council) and provides updated findings on key issues previously examined in AMAP’s 2024 and 2021 Arctic Climate Change Updates, as well as earlier assessments such as SWIPA 2017 and ACIA 2005. In addition to revising earlier conclusions, the report introduces new areas of concern, including Arctic amplification, marine heatwaves, and the Atlantic Meridional Overturning Circulation (AMOC).
 
 ---
 
