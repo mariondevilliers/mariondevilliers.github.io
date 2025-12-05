@@ -14,7 +14,7 @@ This page summarizes my contributions as chapter leader and co-author to major s
 
 ## Arctic Monitoring and Assessment Programme (AMAP)   
 ### **Lead Author — Chapter 5: The Atlantic Meridional Overturning Circulation (AMOC)**  
-**Upcoming 2026 Climate Update Report on Arctic Monitoring and Assessment Programm (2026)**
+**Upcoming 2026 Climate Update Report produced by the Arctic Monitoring and Assessment Programm (2026)**
 
 Leading Chapter 5 of the upcoming AMAP report.  
 This chapter focuses on:
