@@ -19,7 +19,10 @@ main:
  
   - title: "Conferences"
     url: /conferences/
-  
+
+  - title: "Scientific Assessment Reports"
+    url: /assessment-reports/
+
   - title: "CV"
     url: /cv/
     
