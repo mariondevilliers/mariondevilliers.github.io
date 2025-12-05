@@ -3,7 +3,7 @@ title: "Limited impact of Greenland meltwater on abruptness and reversibility of
 collection: publications
 permalink: /publications/mehling-2025-greenland-amoc-arxiv/
 date: 2025-01-01
-venue: "arXiv preprint"
+venue: "arXiv preprint, under review in Science Advances"
 authors: "Mehling, O.; Bellomo, K.; Fabiano, F.; Devilliers, M.; Petrini, M.; Corti, S.; von Hardenberg, J."
 year: 2025
 type: "preprint"
