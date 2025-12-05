@@ -1,5 +1,5 @@
 ---
-title: "Comments on Pontes & Menviel (2023): On AMOC stability and freshwater forcing"
+title: "Comment to Pontes & Menviel (2024) Study: Weakening of the Atlantic Meridional Overturning Circulation driven by subarctic freshening since the mid-twentieth century"
 collection: publications
 permalink: /publications/devilliers-2025-comments-pontes-menviel/
 date: 2026-01-01
