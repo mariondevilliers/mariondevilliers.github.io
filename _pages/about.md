@@ -10,9 +10,8 @@ I am a climate scientist specializing in the dynamics, variability, and predicta
 I currently work at the **Danish Meteorological Institute (DMI)**, studying AMOC variability, Greenland freshwater fluxes, and their impact on the climate system. I collaborate widely with research teams across Europe (Ifremer, NERSC, GEOMAR, CNRS, Met Éireann, IMT-Atlantique...).
 
 My work focuses on:
-- AMOC dynamics and early-warning indicators  
-- Greenland meltwater and ocean circulation  
-- High-resolution coupled modelling (EC-Earth4, CMIP6)  
-- Decadal prediction and ensemble methods    
-
+- AMOC dynamics and early-warning signals 
+- Greenland meltwater and ocean circulation
+- Observational constraint methods applied to CMIP6 models
+   
 A full list of my publications is available in the *Publications* section.
