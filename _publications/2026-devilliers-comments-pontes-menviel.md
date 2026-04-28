@@ -2,7 +2,7 @@
 title: "AMOC response to historical freshwater increase"
 collection: publications
 permalink: /publications/devilliers-2025-comments-pontes-menviel/
-date: 2026-01-01
+date: 2026-05-01
 venue: "Matters Arising, Nature Geoscience"
 year: 2026
 authors: "Devilliers, M.; Swingedouw, D.; Martin, T.; Mankoff, K.; Schiller-Weiss, I.; Mignot, J.; Olsen, S. M.; Deshayes, J."
