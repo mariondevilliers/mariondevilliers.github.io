@@ -1,12 +1,12 @@
 ---
 title: "Limited impact of Greenland meltwater on abruptness and reversibility of future Atlantic overturning changes"
 collection: publications
-permalink: /publications/mehling-2025-greenland-amoc-arxiv/
-date: 2026-01-01
-venue: "arXiv preprint, accepted in Science Advances"
+permalink: /publications/mehling-2026-greenland-amoc/
+date: 2026-06-19
+venue: "Science Advances"
 authors: "Mehling, O.; Bellomo, K.; Fabiano, F.; Devilliers, M.; Petrini, M.; Corti, S.; von Hardenberg, J."
 year: 2026
-type: "preprint"
+type: "published"
 category: manuscripts
-redirect_to: "https://arxiv.org/abs/2509.24858"
+redirect_to: "https://www.science.org/doi/10.1126/sciadv.aed2633"
 ---
